@@ -73,7 +73,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="" />
+  <img align="left" alt="Bogdan's GitHub Stats" src="" />
 
 </details>
 
