@@ -70,12 +70,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Bogdan's GitHub Stats" src="" />
-
-</details>
 
 [website]: https://www.zmist.in.ua/
 [course]: http://vsCodeHero.com
