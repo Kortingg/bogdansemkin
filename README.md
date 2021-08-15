@@ -5,7 +5,6 @@
 
 ## I'm a Student, Creator, Developer, and Boyfriend!!
 
-
 - 🔭 I just launched my educational startup: [Become A SUPER HERO on EXAMS!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
