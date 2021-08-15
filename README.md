@@ -73,7 +73,9 @@
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
+ 
 </details>
+
 
 [website]: https://www.zmist.in.ua/
 [course]: http://vsCodeHero.com
