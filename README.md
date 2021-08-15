@@ -12,7 +12,6 @@
 - 🥅 2020 Goals: Started one more startup
 - ⚡ Fun fact: I love to and play foolball / swimming 
 
-
 ### Connect with me:
 
 [<img align="left" alt="zmist in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
