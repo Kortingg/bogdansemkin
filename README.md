@@ -6,7 +6,9 @@
 [![Linkedin Follow](https://img.shields.io/twitter/follow/Bogdan?color=1DA1F2&logo=linkedin&style=for-the-badge)](https:https://ua.linkedin.com/in/bogdan-donchenko-804933152)
 
 
+
 ## I'm a Student, Creator, Developer, and Boyfriend!!
+
 
 
 - 🔭 I just launched my educational startup: [Become A SUPER HERO on EXAMS!][course]!
@@ -15,7 +17,9 @@
 - 🥅 2020 Goals: Started one more startup
 - ⚡ Fun fact: I love to and play foolball / swimming 
 
+
 ### Connect with me:
+
 
 [<img align="left" alt="zmist in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Bogdan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
