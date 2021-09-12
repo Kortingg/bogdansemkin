@@ -5,7 +5,3 @@
 - 🚀 Building <a href="https://sferum.ru" target="blank">Sferum</a>
 | <a href="https://sferum.ru/"  target="blank">Website</a>
 - 👨‍💻 Linkedin | Instagram | Medium: **@goddamityouscrewedupagain**
-
-<p>Public Stats</p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=goddamityouscrewedupagain&show_icons=true&hide_title=false" alt="goddamityouscrewedupagain" /></p>
-
