@@ -6,5 +6,5 @@
 | <a href="https://sferum.ru/"  target="blank">Website</a>
 - 👨‍💻 Linkedin | Instagram | Medium: **@goddamityouscrewedupagain**
 <a>Public Stats</a>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=goddamityouscrewedupagain&show_icons=true&hide_title=true" alt="zhashkevych" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=goddamityouscrewedupagain&show_icons=true&hide_title=false" alt="goddamityouscrewedupagain" /></p>
 
