@@ -4,4 +4,5 @@
 - 🔥 Learning Product Management, psychology & UI/UX Design
 - 🚀 Building <a href="https://sferum.ru" target="blank">Sferum</a>
 | <a href="https://sferum.ru/"  target="blank">Website</a>
-- 👨‍💻 Linkedin | Instagram | Medium: **@goddamityouscrewedupagain**
+- 👨‍💻 Linkedin | Instagram : **@goddamityouscrewedupagain**
+- Medium: **bogdandonchenko**
