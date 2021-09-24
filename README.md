@@ -1,8 +1,8 @@
-<h1 align="left">Bogdan Donchenko (@goddamityouscrewedupagain) 👋</h1>
+<h1 align="left">Bogdan Donchenko(Semkin) (@bogdansemkin) 👋</h1>
 
 - 💻 Core Stack: **Go, JS/React**. Mainly focused on Backend.
 - 🔥 Learning Product Management, psychology & UI/UX Design
 - 🚀 Building <a href="https://sferum.ru" target="blank">Sferum</a>
 | <a href="https://sferum.ru/"  target="blank">Website</a>
-- 👨‍💻 Linkedin | Instagram : **@goddamityouscrewedupagain**
+- 👨‍💻 Linkedin | Instagram : **@bogdandonchenkosemkin**
 - Medium: **bogdandonchenko**
