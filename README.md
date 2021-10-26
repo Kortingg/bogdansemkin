@@ -4,5 +4,6 @@
 - 🔥 Learning Product Management, psychology & UI/UX Design
 - 🚀 Building <a href="https://sferum.ru" target="blank">Sferum</a>
 | <a href="https://sferum.ru/"  target="blank">Website</a>
+- 👨‍🔬 working as AI developer
 - 👨‍💻 Linkedin | Instagram : **@bogdandonchenkosemkin**
 - Medium: **bogdandonchenko**
