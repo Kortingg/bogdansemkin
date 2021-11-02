@@ -8,4 +8,4 @@
 - 👨‍💻 Linkedin | Instagram : **@bogdandonchenkosemkin**
 - 📖 Medium: **bogdandonchenko**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdansemkin&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdansemkin&layout=compact)
