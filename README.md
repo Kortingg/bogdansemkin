@@ -9,4 +9,4 @@
 - 📖 Medium: **bogdandonchenko**
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bogdansemkin?cardType=github&theme=vue-dark&Background=0D0D0D)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bogdansemkin?cardType=github&theme=vue-dark&Background=0D0D0D)]
